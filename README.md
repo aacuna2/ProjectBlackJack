@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+## Welcome to iSchool Style: BlackJack
+by: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
 
-You can use the [editor on GitHub](https://github.com/aaruldoss/ProjectBlackJack.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### OVERVIEW and APPROACH
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Approach/ideology
+- Challenges
+- Successful Group Practices 
+- How/Why we selected a project idea 
 
-### Markdown
+**Components:**
+  - Dictionaries
+  - Lists 
+  - Global and local variables
+  - If/elif/else statements
+  - While loops
+  - Print/Prompt/Input statements
+ 
+**Key Tasks:**
+- Establishing iSchool Rules
+- A dictionary used to simulate a deck of cards
+- Draw function using random.choice()
+- Summing number of cards in hand/drawed and total card value
+- HIT or STAY 
+- Simulating up to 5 player draws
+- PUSH (Ties; Dealer Card Value == Player Card Value)
+- BUST (card value > 21)
+- Aces ( == 11 versus == 1)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ 
+### STEPS TO FUNCTIONALITY
 
-```markdown
-Syntax highlighted code block
+1. Dealer vs. Player Variables
+2. Do you want to play (Yes/No?)
+3. random.choice() player 2 cards
+4. State keys (cards in hand) and value
+5. HIT/STAY?
+6. If hit, random.choice() another card
+7. State keys and value
+8. If Ace choose 1 or 11
+9. HIT (instance 1, 2, 3, 4, and/or 5)
+10. WIN? LOST? BUST? PUSH
 
-# Header 1
-## Header 2
-### Header 3
+### CHALLENGES
 
-- Bulleted
-- List
+- Aces to be valued at 1 or 11?
+- Dealing with invalid user inputs
+- Ties
+- First hand == 21
+- Class Storage Name as player & Dealer
+- Creating Rules (Computer Logic vs Human Logic)
+- User Friendliness
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+insert code here
+insert code here
+insert code here
+insert code here
+insert code here
+insert code here
+insert code here
+insert code here
+insert code here
+insert code here
+insert code here
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aaruldoss/ProjectBlackJack.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```
