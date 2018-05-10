@@ -1,4 +1,4 @@
-## Welcome to iSchool Style: BlackJack
+'''Welcome to iSchool Style: BlackJack
 by: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
 
 # SIMULATED BLACKJACK GAME
@@ -6,7 +6,7 @@ by: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
 - REGULAR HIT, STAY, BUST, AND PUSH Options
 - Text Based
 
-### CODE
+### CODE'''
 
 ```
 import random
