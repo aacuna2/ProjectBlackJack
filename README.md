@@ -12,6 +12,6 @@ by: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
 
 
 ### Directions:
-**Go To `Pages` Branch > README.md To View the Brief on Development**
+**Go To `Pages` Branch >> README.md To View the Brief on Development**
 
-**Go To `Pages` Branch > ProjectBlackjack(Charlie).py To View the ```Code```**
+**Go To `Pages` Branch >> ProjectBlackjack(Charlie).py To View the ```Code```**
