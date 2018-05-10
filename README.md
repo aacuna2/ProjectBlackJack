@@ -54,6 +54,8 @@ by: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
 - Creating Rules (Computer Logic vs Human Logic)
 - User Friendliness
 
+### CODE
+
 ```
 import random
 
