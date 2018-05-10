@@ -12,6 +12,6 @@ by: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
 
 
 ### Directions:
-**Go To `Pages` Branch To View the Brief**
+**Go To `Pages` Branch To View the Brief on Development**
 
 **Go To `Pages` Branch To View the ```Code```**
