@@ -7,9 +7,9 @@ by: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
 - Text Based
 
 ## Rules
-1. Dealer must stay on all 17's
+1. Dealer must STAY on all 17's
 2. When player has 5 cards in hand and value less than or equal to 21, player wins.
 
 **Go To `Pages` Branch To View the Brief**
 
-**Go To `Code` Branch To View the ```Code```**
+**Go To `Pages` Branch To View the ```Code```**
