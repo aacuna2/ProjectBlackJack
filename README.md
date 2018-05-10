@@ -6,6 +6,6 @@ by: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
 - REGULAR HIT, STAY, BUST, AND PUSH Options
 - Text Based
 
-**Go To `Pages` To View the Brief**
+**Go To `Pages` Branch To View the Brief**
 
-**Go To `Code` To View the ```Code```**
+**Go To `Code` Branch To View the ```Code```**
