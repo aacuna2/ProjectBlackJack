@@ -55,16 +55,6 @@ by: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
 - User Friendliness
 
 ```
-insert code here
-insert code here
-insert code here
-insert code here
-insert code here
-insert code here
-insert code here
-insert code here
-insert code here
-insert code here
-insert code here
+See attached file. Circumvent directions added for enter button not working on the first try after reloading the program. 
 
 ```
