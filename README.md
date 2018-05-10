@@ -72,9 +72,7 @@ deck = {"Ace of Diamonds": 11, "Two of Diamonds" : 2, "Three of Diamonds": 3 , "
         "Seven of Clubs": 7, "Eight of Clubs": 8, "Nine of Clubs": 9, "Ten of Clubs": 10,
         "Jack of Clubs": 10, "Queen of Clubs": 10, "King of Clubs": 10
         }
-words = ('hit', 'HIT', 'stay', 'STAY')
-begin = ('NO', 'no', '' \
-                     '')
+
 def score_hand(hand):
     score_without_aces = 0
     ace_count = 0
@@ -130,19 +128,13 @@ class Players:
 dealer = Players("Dealer")
 player = Players("Player")
 
-Startgame = input("Welcome to ISchool Casino Blackjack table, Press Enter to continue or 'NO' to Exit **If nothing happens PRESS ENTER AGAIN**")
-Start_or_Stop = Startgame.upper()
-while Start_or_Stop not in begin:
-    print("Invalid input try again")
-    Startgame = input("Welcome to ISchool Casino Blackjack table, Press Enter to continue or 'NO' to Exit **If nothing happens PRESS ENTER AGAIN**")
-    if Start_or_Stop in begin:
-        break
-if Start_or_Stop == '':
-    print(
-        "Rules: 1. Dealer must stay on all 17's" '\n' + '       ' + "2. When player has 5 cards in hand and value less than or equal to 21, player wins.  ")  # " '\n' + '       '
+Start_or_Stop = input("Welcome to ISchool Casino Blackjack table, Press Enter to continue or 'NO' to Exit")
+print("Rules: 1. Dealer must stay on all 17's" '\n' + '       ' + "2. When player has 5 cards in hand and value less than or equal to 21, player wins.  ")#  " '\n' + '       '
     #  + "3.
-    print(
-        "***************************************************************************************************************")
+print("***************************************************************************************************************")
+
+if Start_or_Stop == '' \
+                    '':
     player.draw()
     sum_of_player = score_hand(player.hand)
     print("Hand Total: ", sum_of_player)
@@ -152,12 +144,6 @@ if Start_or_Stop == '':
         exit()
     choice = input("Do you want to 'HIT' or 'STAY', type your result. ")
     decision = choice.upper()
-    while decision not in words:
-        print("Invalid input try again")
-        choice = input("Do you want to 'HIT' or 'STAY', type your result. ")
-        decision = choice.upper()
-        if decision in words:
-            break
     while decision == 'HIT':
         #print(player.hand)
         player.draw()
@@ -166,7 +152,7 @@ if Start_or_Stop == '':
         if sum_of_player == None:
             print("BUST, better luck next time.")
             exit()
-        print("Hand Total: : ", sum_of_player)
+        print("Hand Total: ", sum_of_player)
         #print("Cards in Hand: ", player.hand)
         if sum_of_player == 21:
             print("Blackjack, YOU WIN")
@@ -178,16 +164,19 @@ if Start_or_Stop == '':
             print("BUST, better luck next time.")
             exit()
 
-        #choice = input("Do you want to 'HIT' or 'STAY', type your result. ")
-        #decision = choice.upper()
+        choice = input("Do you want to 'HIT' or 'STAY', type your result. ")
+        decision = choice.upper()
     while decision == "STAY":
             dealer.draw()
             sum_of_dealer = score_hand(dealer.hand)
             print("Dealer Total: ", sum_of_dealer)
-            #print("Cards in Hand: ", dealer.hand)
+           # print("Cards in Hand: ", dealer.hand)
             #print(sum_of_dealer)
             if sum_of_player == sum_of_dealer:
                 print("push....you Tie, maybe next time.")
+                exit()
+            if sum_of_dealer == None:
+                print("Dealer Bust, Player wins")
                 exit()
             while sum_of_dealer < 17:
                 dealer.draw()
@@ -211,19 +200,21 @@ if Start_or_Stop == '':
             exit()
 if Start_or_Stop == "NO":
         print("You have exited game")
-        exit()
+
 #****************************************************************************************************************************************
 #Fixes:
-        # fix ace problem, once it accounts for ace it still sees ace count as 1 and will subtract 10 for each additional hit
+
         # user input corrections with no error status
 
-        # weird bug of Tie  not working in answer to give answer when both are automatic from the random generator.......why????
+
         # Add on: press enter to play again.....maybe????
 
 
         # add names to the output numbers - Completed
         # fix upper and lowercsase inputs - COMPLETED
         # bug if first cards are black jack why no win - Completed
+        # fix ace problem, once it accounts for ace it still sees ace count as 1 and will subtract 10 for each additional hit - Completed
+        # weird bug of Tie  not working in answer to give answer when both are automatic from the random generator.......why???? - Completed
 
 # Example may work:
 
@@ -231,7 +222,7 @@ if Start_or_Stop == "NO":
             choice = input("Do you want to 'HIT' or 'STAY', type your result. ")
             decision = choice.upper()
             try:
-                words = ('hit', 'HIT', 'H', 'h', 'hits', 'HITS', 'stay', 'STAY', 'S', 's', 'stays', 'STAYS')
+                choice = ('hit', 'HIT', 'H', 'h', 'hits', 'HITS', 'stay', 'STAY', 'S', 's', 'stays', 'STAYS')
                 break
             except:
                 print("This was not a valid input, please try again.")
@@ -239,13 +230,14 @@ if Start_or_Stop == "NO":
 
 
         while True:
-            Start_or_Stop = input("Welcome to ISchool Casino Blackjack table, Press Enter to continue or 'NO' to Exit **If nothing happens PRESS ENTER AGAIN**")
+            Start_or_Stop = input("Welcome to ISchool Casino Blackjack table, Press Enter to continue or 'NO' to Exit")
             try:
                 choice = ('No', 'no', 'n', ''
-                                           )
+                                           '')
                 break
             except:
                 print("This was not a valid input, please try again.")
         exit()
+
 
 ```
