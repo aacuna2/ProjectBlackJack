@@ -10,6 +10,8 @@ by: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
 1. Dealer must STAY on all 17's
 2. When player has 5 cards in hand and value less than or equal to 21, player wins.
 
+
+### Directions
 **Go To `Pages` Branch To View the Brief**
 
 **Go To `Pages` Branch To View the ```Code```**
