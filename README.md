@@ -12,7 +12,7 @@ Team: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
 - How/Why we selected a project idea 
 
 
-### Approach and Ideology 
+### APPROACH AND IDEOLOGY 
 
 **Components:**
   - Dictionaries
