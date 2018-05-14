@@ -6,13 +6,19 @@ by: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
 - REGULAR HIT, STAY, BUST, AND PUSH Options
 - Text Based
 
+## How to Play
+- Get the code from our branch labeled `Code`
+- Run the program in an your software or IDE
+- Follow instructions given in program
+- Remember 'hit' or 'stay' are the input options
+- Enjoy
 ## Rules:
 1. Dealer must STAY on all 17's
 2. When player has 5 cards in hand and value less than or equal to 21, player wins.
 
 
-### Directions:
-**Go To `Pages` Branch >> README.md To View the Brief on Development**
+### Coordinating Directions:
+**Go To `Pages` Branch >> README.md To View the in plain text**
 
 **Go To `Code` Branch >> ProjectBlackjack(Charlie).py To View the ```Code```**
 
