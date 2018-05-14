@@ -25,8 +25,6 @@ by: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
 
 
 # Development Brief
-## BlackJack Card Game
-
 ## Welcome to iSchool Style: BlackJack
 Team: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
 
