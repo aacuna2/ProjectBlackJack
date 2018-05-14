@@ -19,7 +19,7 @@ Team: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
 
 
 ### Coordinating Directions:
-**Go To `Pages` Branch >> README.md To View in plain text https://github.com/aaruldoss/ProjectBlackJack/tree/Code**
+**Go To `Pages` Branch >> README.md To View in plain text << https://github.com/aaruldoss/ProjectBlackJack/tree/Code >>**
 
 **Go To `Code` Branch >> ProjectBlackjack(Charlie).py To View the ```Code```**
 
