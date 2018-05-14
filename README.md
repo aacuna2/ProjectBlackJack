@@ -31,8 +31,8 @@ Team: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
 ### OVERVIEW
 
 - Approach/Ideology
-- Challenges
-- Successful Group Practices 
+- Steps To Functionality
+- Challenges 
 
 
 ### APPROACH AND IDEOLOGY 
