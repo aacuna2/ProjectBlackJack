@@ -33,7 +33,6 @@ Team: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
 - Approach/Ideology
 - Challenges
 - Successful Group Practices 
-- How/Why we selected a project idea 
 
 
 ### APPROACH AND IDEOLOGY 
