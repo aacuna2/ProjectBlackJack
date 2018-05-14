@@ -7,9 +7,8 @@ Team: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
 ### OVERVIEW
 
 - Approach/Ideology
+- Steps To Functionality
 - Challenges
-- Successful Group Practices 
-- How/Why we selected a project idea 
 
 
 ### APPROACH AND IDEOLOGY 
