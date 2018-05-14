@@ -2,7 +2,7 @@
 BlackJack card game
 
 ## Welcome to iSchool Style: BlackJack
-by: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
+Team: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
 
 ### OVERVIEW and APPROACH
 
