@@ -1,4 +1,4 @@
-# ProjectBlackJack.github.io
+# ProjectBlackJack
 BlackJack card game
 
 ## Welcome to iSchool Style: BlackJack
