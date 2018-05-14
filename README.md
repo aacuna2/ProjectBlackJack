@@ -16,12 +16,11 @@ by: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
 
 **Go To `Code` Branch >> ProjectBlackjack(Charlie).py To View the ```Code```**
 
-### 
-###
+
+### Development Brief
 
 
-# ProjectBlackJack.github.io
-BlackJack card game
+# BlackJack Card Game
 
 ## Welcome to iSchool Style: BlackJack
 Team: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
