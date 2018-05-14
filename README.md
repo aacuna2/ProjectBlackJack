@@ -6,7 +6,7 @@ by: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
 - REGULAR HIT, STAY, BUST, AND PUSH Options
 - Text Based
 
-## How to Play
+## How To Play
 - Get the code from our branch labeled `Code`
 - Run the program in an your software or IDE
 - Follow instructions given in program
@@ -19,15 +19,13 @@ by: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
 
 
 ### Coordinating Directions:
-**Go To `Pages` Branch >> README.md To View the in plain text**
+**Go To `Pages` Branch >> README.md To View in plain text**
 
 **Go To `Code` Branch >> ProjectBlackjack(Charlie).py To View the ```Code```**
 
 
-### Development Brief
-
-
-# BlackJack Card Game
+# Development Brief
+## BlackJack Card Game
 
 ## Welcome to iSchool Style: BlackJack
 Team: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
