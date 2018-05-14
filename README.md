@@ -1,5 +1,5 @@
 ## Welcome to iSchool Style: BlackJack
-by: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
+Team: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
 
 # SIMULATED BLACKJACK GAME
 - DEALER VS. PLAYER
