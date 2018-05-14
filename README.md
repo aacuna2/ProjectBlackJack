@@ -4,12 +4,15 @@ BlackJack card game
 ## Welcome to iSchool Style: BlackJack
 Team: Alex Acuna, Anthony J. Aruldoss, Daniel Monyei
 
-### OVERVIEW and APPROACH
+### OVERVIEW
 
-- Approach/ideology
+- Approach/Ideology
 - Challenges
 - Successful Group Practices 
 - How/Why we selected a project idea 
+
+
+### Approach and Ideology 
 
 **Components:**
   - Dictionaries
